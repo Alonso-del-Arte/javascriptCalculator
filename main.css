@@ -24,7 +24,7 @@ body{
 
 .display{
     background-color: lightslategray;
-    width: 30vw;
+    width: 31vw;
     border: 1px solid black;
     padding: 25px;
 }
@@ -46,7 +46,6 @@ body{
 }
 
 .button-symbols ul{
-    float: right;
     background-color: slateblue;
     position: absolute;
     left: 83.5%;
@@ -71,8 +70,132 @@ body{
 }
 
 
-.button-symbols .divide:hover{
-    background-color: red;
-    border-radius: 50%;
+.divide:hover{
+    background-color: lightslategray;
+    border-radius: 30%;
     cursor: pointer;
 }
+
+.multiply:hover{
+    background-color: lightslategray;
+    border-radius: 30%;
+    cursor: pointer;
+}
+
+.minus:hover{
+    background-color: lightslategray;
+    border-radius: 30%;
+    cursor: pointer;
+}
+
+.plus:hover{
+    background-color: lightslategray;
+    border-radius: 30%;
+    cursor: pointer;
+}
+
+.equals:hover{
+    background-color: lightslategray;
+    border-radius: 30%;
+    cursor: pointer;
+}
+
+.button-numbers ul{
+    width: 85%;
+    margin-top: -1vw;
+    margin-left: 1vw;
+    
+}
+
+.button-numbers li{
+    list-style: none;
+    display: inline-block;
+    color: white;
+    font-size: 2vw;
+    margin: .5vw;
+    padding-top: .5vw;
+    padding-bottom: .5vw;
+    padding-left: 2vw;
+    padding-right: 1.8vw;
+}
+
+
+.button-numbers .nine:hover{
+    background-color: slateblue;
+    border-radius: 30%;
+    cursor: pointer;
+}
+
+.button-numbers .eight:hover{
+    background-color: slateblue;
+    border-radius: 30%;
+    cursor: pointer;
+}
+
+.button-numbers .seven:hover{
+    background-color: slateblue;
+    border-radius: 30%;
+    cursor: pointer;
+}
+
+.button-numbers .six:hover{
+    background-color: slateblue;
+    border-radius: 30%;
+    cursor: pointer;
+}
+
+.button-numbers .five:hover{
+    background-color: slateblue;
+    border-radius: 30%;
+    cursor: pointer;
+}
+
+.button-numbers .four:hover{
+    background-color: slateblue;
+    border-radius: 30%;
+    cursor: pointer;
+}
+
+.button-numbers .three:hover{
+    background-color: slateblue;
+    border-radius: 30%;
+    cursor: pointer;
+}
+
+.button-numbers .two:hover{
+    background-color: slateblue;
+    border-radius: 30%;
+    cursor: pointer;
+}
+
+.button-numbers .one:hover{
+    background-color: slateblue;
+    border-radius: 30%;
+    cursor: pointer;
+}
+
+.button-numbers .zero:hover{
+    background-color: slateblue;
+    border-radius: 30%;
+    cursor: pointer;
+}
+
+.button-numbers .decimal:hover{
+    background-color: slateblue;
+    border-radius: 30%;
+    cursor: pointer;
+}
+
+.button-numbers .clear:hover{
+    background-color: slateblue;
+    border-radius: 30%;
+    cursor: pointer;
+}
+
+
+
+
+
+
+
+
