@@ -25,6 +25,7 @@ body{
 .display{
     background-color: lightslategray;
     width: 31vw;
+    height: 5vw;
     border: 1px solid black;
     padding: 25px;
     color: white;

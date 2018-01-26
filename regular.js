@@ -85,13 +85,13 @@ $(".display").append('*');
 
 });
 
-var multipy = $(".minus").click(function(){
+var minus = $(".minus").click(function(){
 memory.push('-');
 $(".display").append('-');
 
 });
 
-var multipy = $(".plus").click(function(){
+var plus = $(".plus").click(function(){
 memory.push('+');
 $(".display").append('+');
 
